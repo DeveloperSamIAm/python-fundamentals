@@ -1,3 +1,6 @@
 # Python Fundamentals
 
+### About Me
+Hello World! My name is Samantha King but friends call me Sami. I love reading books, video games, music, movies, acrylic painting, and spending time with my family in my free time. I graduated in 2016 from Wichita State University with a bachelor's degree majoring in Medical Laboratory Science. After graduation, I moved to Colorado Springs, CO and worked for three years as a generalist at a UCHealth Memorial North hospital. As a generalist I worked in all of the departments including chemistry, urinalysis, hematology, coagulation, microbiology, and blood banking. After three years working at the hospital I was offered a position at a privately owned laboratory as an evening shift lead focusing in diagnostic PCR just before the pandemic started affecting the US in 2020. During the pandemic our startup lab that was less than a year old processed thousands of Covid-19 swabs each day. It was working for that lab that I discovered a passion for coding after working with a developer for our LIS (Laboratory Integration System) and fostering new ideas for the program we worked with on a daily basis. I moved back with family in KS to spend more time with my son and to dedicate my time to learning programming. 
+
 This is the first programming language that we are going to work with in our Cloud Development Course.

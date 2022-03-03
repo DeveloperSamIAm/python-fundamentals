@@ -65,6 +65,7 @@ print(left)
 class MyFirstClass:
     name = 'Roger'
 
+# This is a method instead of a function (inside class=method belongs to an object; outside class=function)
     def something(self):
         print('Something')
 

@@ -45,7 +45,7 @@ val_complex2 = -5j
 print(val_complex)
 print(val_complex2)
 
-# The method below will convert an integer to a different numeric sytem values
+# The method below will convert an integer to a different numeric system values
 print(bin(22))
 print(oct(22))
 print(hex(22))

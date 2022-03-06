@@ -111,7 +111,10 @@ def boolean_sample(arg):
     print(bool(arg))
 
 
-boolean_sample(0)
+boolean_sample(0.0)
 
-# When the argument's (arg) value was 8 the result was true
+# When the argument's value was 12 the result was true
+# When the argument's value was 1.2 the result was true
 # When the argument's value was 0 the result was false
+# When the argument's value was 0.4 the result was true
+# When the argument's value was 0.0 the result was false

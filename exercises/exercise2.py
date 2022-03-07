@@ -2,22 +2,19 @@
 # message to 5 variables and print each message.
 
 def simple():
-    """Display a simple message."""
-    print(f"{simple} are delicious!")
+    msg1 = "cupcakes"
+    print(msg1)
+    msg2 = "cookies"
+    print(msg2)
+    msg3 = "parfaits"
+    print(msg3)
+    msg4 = "eclairs"
+    print(msg4)
+    msg5 = "waffles"
+    print(msg5)
 
 
 simple()
-
-msg1 = "cupcakes"
-print(msg1)
-msg2 = "cookies"
-print(msg2)
-msg3 = "parfaits"
-print(msg3)
-msg4 = "eclairs"
-print(msg4)
-msg5 = "waffles"
-print(msg5)
 
 
 # Question 2: Write a function called simple2(). Assign a message
@@ -28,8 +25,6 @@ print(msg5)
 # print functions showing results.
 
 def simple2():
-    """Display a simple message."""
-    print(f"{simple2} are super delicious!")
     msg = "cupcakes"
     print(msg)
     msg = "cookies"
@@ -52,4 +47,3 @@ def message(arg1):
 
 
 message('SamIAm')
-
